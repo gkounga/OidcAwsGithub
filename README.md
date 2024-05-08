@@ -27,4 +27,4 @@ For further details, refer to [AWS Blog - Use IAM Roles to Connect GitHub Action
 
 ### Use of OIDC in Github Actions
 
-![Design sans titre(8)](https://github.com/gkounga/OidcAwsGithub/assets/99138607/f7c60425-6f9b-43e8-aae9-122a244bd7de)
+![Design sans titre(9)](https://github.com/gkounga/OidcAwsGithub/assets/99138607/e255396b-2cfd-4bfc-a591-1fde75600f65)
